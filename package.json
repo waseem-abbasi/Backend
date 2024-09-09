@@ -6,13 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
   "author": "waseem abbasi",
-  "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^3.1.4",
-    "prettier": "^3.3.3"
-  },
-  "dependencies": {
-    "bootstrap": "^5.3.3"
-  }
+  "license": "ISC"
 }
